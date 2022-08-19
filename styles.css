@@ -1,0 +1,162 @@
+
+   
+  
+ .imgt {
+    position: absolute;
+width: 246px;
+height: 180px;
+left: 148px;
+top: 673px;
+border-radius: 6px;
+ }
+ .imgf {
+    position: absolute;
+width: 246px;
+height: 180px;
+left: 148px;
+top: 899px;
+border-radius: 6px;
+ }
+ .imgh {
+    position: absolute;
+width: 246px;
+height: 180px;
+left: 148px;
+top: 1145px;
+border-radius: 6px;
+ }
+  .body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .body h1 {
+position: absolute;
+width: 426px;
+height: 105px;
+left: 148px;
+top: 228px;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+  }
+.txtp {
+position: absolute;
+width: 497px;
+height: 66px;
+left: 148px;
+top: 373px;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+.body input {
+position: absolute;
+width: 167px;
+height: 21px;
+left: 146px;
+top: 486px;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+}
+.body h3 {
+position: absolute;
+width: 152px;
+height: 60px;
+left: 155px;
+top: 561px;
+font-weight: 400;
+font-size: 19px;
+line-height: 60px;
+}
+.hone {
+position: absolute;
+width: 1305px;
+height: 14px;
+left: 412px;
+top: 636px;
+font-weight: 700;
+font-size: 20px;
+line-height: 44px;
+}
+.htwo {
+    position: absolute;
+    width: 637px;
+    height: 44px;
+    left: 412px;
+    top: 865px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 44px;
+}
+.hthree {
+position: absolute;
+width: 665px;
+height: 44px;
+left: 412px;
+top: 1110px;
+font-weight: 700;
+font-size: 20px;
+line-height: 44px;
+}
+.pone {
+position: absolute;
+width: 494px;
+height: 93px;
+left: 412px;
+top: 763px;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+.ptwo {
+position: absolute;
+width: 494px;
+height: 93px;
+left: 412px;
+top: 985px;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+.pthree {
+    
+position: absolute;
+width: 507px;
+height: 93px;
+left: 415px;
+top: 1233px;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+.body {
+    position: relative;
+width: 1152px;
+height: 1476px;
+}
+
+.btn {
+    background: #ff6464;
+    padding-bottom: 30px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 5cm;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    
+}
+.btn:hover {
+    opacity: 0.9;
+}
+.centre {
+    max-width: 750px;
+    margin: auto;
+}
+  
+  .img {
+    position: absolute;
+
+left: 760px;
+top: 210px;
+  }
